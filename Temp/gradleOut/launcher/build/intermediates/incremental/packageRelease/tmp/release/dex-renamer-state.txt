@@ -1,0 +1,4 @@
+#Sun Mar 21 21:18:49 CST 2021
+base.0=F\:\\UnityProjects\\FastSnake\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
